@@ -1,0 +1,9 @@
+#include<maths.h>
+#include<auto.h>
+#define add
+print
+{
+input n;
+output *add;
+}
+/* EasyAsPie */

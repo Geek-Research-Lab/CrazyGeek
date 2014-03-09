@@ -1,0 +1,8 @@
+$start
+$login ashumeow
+$pass haha
+Success
+$create web:name-ashumeow +http:www-domain:com
+Success
+$connect <ip address>
+Success

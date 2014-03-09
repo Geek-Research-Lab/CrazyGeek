@@ -1,0 +1,8 @@
+#include<year.h>
+#include<date.h>
+#include<time.h>
+#define LocalClock Clock
+print
+{
+Clock "date":"year":"time";
+}

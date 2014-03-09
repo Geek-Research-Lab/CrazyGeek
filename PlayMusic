@@ -1,0 +1,9 @@
+$start
+$login ashumeow
+$pass haha
+$locate C:/music/pitbull
+Updated
+$music play-all Type-NoShuffle
+Success
+Finished all tracks
+$exit

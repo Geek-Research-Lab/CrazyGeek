@@ -1,0 +1,16 @@
+#include<webinfoaccess.h>
+#include<auto.h>
+enter
+{
+acc=id:ashumeow1;
+}
+access
+{
+grant-user:ON;
+}
+user-type-access
+{
+post-ON;
+}
+
+/* Easy as pie */ /*Aswini*/

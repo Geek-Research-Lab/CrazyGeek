@@ -1,0 +1,7 @@
+$goto<path>
+$music ON
+$stop
+$switch to:(/music/pitbull/liveitup.mp3);mode:shuffle-ON
+Success
+$stop music
+Success
